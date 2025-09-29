@@ -1,16 +1,31 @@
-#### Submitted
+### Publications
 
-- <strong>S. Li</strong>, X. Yang*, A. Cao*, K. Fan, Y. Liu, C. Wang, and Q. Niu. LaNCoR: Label Noise-Contrastive Robust Learning for Seismic Signal Processing with Application to Microseismic Arrival Time Picking. <strong>Rej :)</strong> [[Code]](https://github.com/senli1073/LaNCor)
+*\* indicates corresponding author*
 
-#### Published
+-   **C. Jiang\***, D. Talbot, S. Carazo, and M.E. Schnitzer (2025). **A Double Machine Learning Approach for the Evaluation of COVID-19 Vaccine Effectiveness under the Test-Negative Design: Analysis of Québec Administrative Data**. *Statistics in Medicine, 44(5)*. [[Paper]](https://onlinelibrary.wiley.com/doi/full/10.1002/sim.70025)
 
-- X. Yang, <strong>S. Li</strong>, A. Cao*, C. Wang*, Y. Liu, X. Bai, and Q. Niu (2024). Deep Transfer Learning for P-wave Arrival Identification and Automatic Seismic Source Location in Underground Mines. <strong>International Journal of Rock Mechanics and Mining Sciences</strong>. [[Paper]](https://doi.org/10.1016/j.ijrmms.2024.105888)
+-   **C. Jiang\***, M.P. Wallace, and M.E. Thompson (2023). **Dynamic Treatment Regimes with Interference**. *Canadian Journal of Statistics, 51(2): 469–502*. [[Paper]](https://onlinelibrary.wiley.com/doi/abs/10.1002/cjs.11702) [[Lay abstract]](https://www.statisticsviews.com/article/lay-abstract-for-canadian-journal-of-statistics-article-dynamic-treatment-regimes-with-interference/)
 
-- <strong>S. Li</strong>, X. Yang*, A. Cao*, C. Wang, Y. Liu, Y. Liu, and Q. Niu (2024). SeisT: A Foundational Deep-Learning Model for Earthquake Monitoring Tasks. <strong>IEEE Transactions on Geoscience and Remote Sensing</strong>. [[Paper]](https://doi.org/10.1109/TGRS.2024.3371503) [[Code]](https://github.com/senli1073/SeisT)
+-   **C. Jiang**, M.E. Thompson\*, M.P. Wallace (2024). **Estimating dynamic treatment regimes for ordinal outcomes with household interference: Application in household smoking cessation**. *Statistical Methods in Medical Research, 33(6): 981–995*. [[Paper]](https://journals.sagepub.com/doi/10.1177/09622802241242313)
 
-- A. Cao, X. Yang, C. Wang*, <strong>S. Li</strong>, Y. Liu, L. Dou, and Q. Niu (2023). High-Precision Phase Picking and Automatic Source Locating Method for Seismicity in Mines Based on Deep Transfer Learning. <strong>Journal of China Coal Society</strong>. [[Paper]](https://doi.org/10.13225/j.cnki.jccs.2023.0095)
+-   E.O. Brizuela, M. Carabali, **C. Jiang**, J. Merckx, D. Talbot, M.E. Schnitzer\* (2025). **Potential Biases in Test-Negative Design Studies of COVID-19 Vaccine Effectiveness Arising from the Inclusion of Asymptomatic Individuals**. *American Journal of Epidemiology, 194(3): 844–856*. [[Paper]](https://doi.org/10.1093/aje/kwae288)
 
-- A. Cao, Y. Liu, X. Yang*, <strong>S. Li</strong>, C. Wang, X. Bai, and Y. Liu (2022). Physical Index and Data Fusion-Driven Method for Coal Burst Prediction in Time Sequence. <strong>Journal of China Coal Society</strong>. [[Paper]](https://doi.org/10.13225/j.cnki.jccs.2022.0680)
+-   C. Hong, L. Qin\*, **C. Jiang**, M. Qin, Y. Sun, J. Luo (2023). **Characteristics, risk management and GMP standards of pharmaceutical companies in China**. *Frontiers in Public Health 11:1103555*. [[Paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10031010/)
 
-- X. Yang, X. Yu, C. Zhang, <strong>S. Li</strong>, and Q. Niu (2021). MineGPS: Battery-Free Localization Base Station for Coal Mine Environment. <strong>IEEE Communications Letters</strong>. [[Paper]](https://doi.org/10.1109/LCOMM.2021.3081593)
+-   M. Mésidor, Y. Liu, D. Talbot, D. Skowronski, G.D. Serres, J. Merckx, A. Koushik, M. Tadrous, S. Carazo, **C. Jiang**, M.E. Schnitzer\* (2023). **Test negative design for vaccine effectiveness estimation in the context of the COVID-19 pandemic: a systematic methodology review**. *Vaccine, 42(5)*. [[Paper]](https://www.sciencedirect.com/science/article/pii/S0264410X23014469)
 
+-   E.S. Munroe, A. Spicer, ..., **C. Jiang**, ..., M. Semler, and E.C. Goligher\* (2024). **Evidence-Based Personalised Medicine in Critical Care: A Framework for Quantifying and Applying Individualised Treatment Effects in Critically Ill Patients**. *Lancet Respiratory Medicine, In press*. [[Paper]](https://doi.org/10.1016/S2213-2600%2825%2900054-2)
+
+#### Under Review
+
+-   **C. Jiang**, M.P. Wallace, and M.E. Thompson (2024). **Doubly Robust Dynamic Treatment Regimen Estimation for Binary Outcomes: two-step weighted generalized linear models**. Revise & Resubmit, *Canadian Journal of Statistics*. [[arXiv]](https://arxiv.org/abs/2203.08269)
+
+-   **C. Jiang**, F. Fang, D. Talbot, M.E. Schnitzer. **Estimating Direct and Spillover Vaccine Effectiveness with Partial Interference under Test-Negative Design Sampling**. [[arXiv]](https://www.medrxiv.org/content/10.1101/2025.02.24.25322826v1)
+
+#### In Preparation
+
+-   **C. Jiang**, M.D. Hughes, and N. Hejazi. **Causal Mediation Analysis with Informative Censored Mediators**. [[Draft]](#)
+
+-   E.O. Brizuela, **C. Jiang**, M. Carabali, D. Talbot, M.E. Schnitzer. **Machine Learning in Vaccine Effectiveness Estimation under the Test-Negative Design: Bridging the Gap for Epidemiologists**. [[Draft]](#)
+
+-   H. Bian, **C. Jiang**, D. Talbot, M.E. Schnitzer. **Addressing Selection Bias and Time-Varying Confounders in Test-Negative Designs for Vaccine Effectiveness Studies**. [[Draft]](#)
