@@ -1,4 +1,3 @@
-### Publications
 
 *\* indicates corresponding author*
 
