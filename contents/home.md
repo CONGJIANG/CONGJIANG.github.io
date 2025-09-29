@@ -17,4 +17,4 @@ Email: cjiang[at]hsph.harvard.edu
 Causal Methods in Health Intervention Evaluation and Decision-Making:\
 1. Causal machine learning; Vaccine effectiveness;\
 2. Adaptive treatment strategy; Interference; Personalized medicine;\
-3. Causal mediation analysis; Data fusion; HIV and TB research\
+3. Causal mediation analysis; Data fusion; HIV and TB research

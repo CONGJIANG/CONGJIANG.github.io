@@ -1,4 +1,3 @@
-
 *\* indicates corresponding author*
 
 -   **C. Jiang\***, D. Talbot, S. Carazo, and M.E. Schnitzer (2025). **A Double Machine Learning Approach for the Evaluation of COVID-19 Vaccine Effectiveness under the Test-Negative Design: Analysis of Québec Administrative Data**. *Statistics in Medicine, 44(5)*. [[Paper]](https://onlinelibrary.wiley.com/doi/full/10.1002/sim.70025)
