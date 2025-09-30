@@ -28,11 +28,12 @@
 
 **Peer-review service**: *Statistics in Medicine (×4), Journal of the American Statistical Association (×2), Stat (1), Epidemiology (1), Electronic Journal of Statistics (×2), International Journal of Biostatistics (1), Journal of Causal Inference (1), Clinical Trials (×2), The Journal of Infectious Diseases (×2), BMC Medical Research Methodology (×2), ACM TKDD (1), Scientific Reports – Nature (×2)*
 
-**Conference review service**:\
-- ENAR Spring Meeting 2025 (Poster Competition),\
-- New England Statistical Symposium 2025 (Poster Competition),\
-- American Causal Inference Conference 2024 (Poster Competition),\
-- SSC Annual Meeting 2024 (Case Studies in Data Analysis Competition)
+**Conference review service**:
+
+-   ENAR Spring Meeting 2025 (Poster Competition),
+-   New England Statistical Symposium 2025 (Poster Competition),
+-   American Causal Inference Conference 2024 (Poster Competition),
+-   SSC Annual Meeting 2024 (Case Studies in Data Analysis Competition)
 
 **Organized invited sessions**:
 
