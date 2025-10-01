@@ -2,7 +2,7 @@
 
 -   **C. Jiang\***, D. Talbot, S. Carazo, and M.E. Schnitzer (2025). **A Double Machine Learning Approach for the Evaluation of COVID-19 Vaccine Effectiveness under the Test-Negative Design: Analysis of Québec Administrative Data**. *Statistics in Medicine, 44(5)*. [[Paper]](https://onlinelibrary.wiley.com/doi/full/10.1002/sim.70025)
 
--   **C. Jiang\***, M.P. Wallace, and M.E. Thompson (2023). **Dynamic Treatment Regimes with Interference**. *Canadian Journal of Statistics, 51(2): 469–502*. [[Paper]](https://onlinelibrary.wiley.com/doi/abs/10.1002/cjs.11702) [[Lay abstract]](https://www.statisticsviews.com/article/lay-abstract-for-canadian-journal-of-statistics-article-dynamic-treatment-regimes-with-interference/)
+-   **C. Jiang\***, M.P. Wallace, and M.E. Thompson (2023). **Dynamic Treatment Regimes with Interference**. *Canadian Journal of Statistics, 51(2): 469–502*. [[Paper]](https://onlinelibrary.wiley.com/doi/abs/10.1002/cjs.11702) [[Lay abstract]](https://www.statisticsviews.com/article/lay-abstract-for-canadian-journal-of-statistics-article-dynamic-treatment-regimes-with-interference/) (**This paper won the Canadian Journal of Statistics Award, Statistical Society of Canada,** [Link](https://ssc.ca/en/awards/2024/cong-jiang-michael-wallace-and-mary-thompson-canadian-journal-statistics-award-2024))
 
 -   **C. Jiang**, M.E. Thompson\*, M.P. Wallace (2024). **Estimating dynamic treatment regimes for ordinal outcomes with household interference: Application in household smoking cessation**. *Statistical Methods in Medical Research, 33(6): 981–995*. [[Paper]](https://journals.sagepub.com/doi/10.1177/09622802241242313)
 

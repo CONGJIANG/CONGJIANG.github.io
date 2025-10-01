@@ -1,18 +1,18 @@
 #### 🎖️ Awards and Honors
 
--   **2024** – *Mobility Prize for Scientific Communication*, Faculté de Pharmacie, Université de Montréal *Acknowledgement of the recipient's efforts in research dissemination*
+-   **2024** – **Mobility Prize for Scientific Communication**, Faculté de Pharmacie, Université de Montréal *Acknowledgement of the recipient's efforts in research dissemination*
 
--   **2024** – *Statistical Society of Canada (SSC) Canadian Journal of Statistics Award*, SSC Award Committee *Presented to the author(s) of the best paper published in the 2024 volume of CJS, in recognition of exceptional methodological innovation and outstanding presentation* [[Link]](https://ssc.ca/en/awards/2024/cong-jiang-michael-wallace-and-mary-thompson-canadian-journal-statistics-award-2024)
+-   **2024** – **Statistical Society of Canada (SSC) Canadian Journal of Statistics Award**, SSC Award Committee *Presented to the author(s) of the best paper published in the 2024 volume of CJS, in recognition of exceptional methodological innovation and outstanding presentation* [[Link]](https://ssc.ca/en/awards/2024/cong-jiang-michael-wallace-and-mary-thompson-canadian-journal-statistics-award-2024)
 
--   **2022** – *SSC Annual Meeting Student Grant*, SSC Student Travel Grants Committee
+-   **2022** – **SSC Annual Meeting Student Grant**, SSC Student Travel Grants Committee
 
--   **2018, 2022** – *Chair Award*, Department of Statistics and Actuarial Science, University of Waterloo
+-   **2018, 2022** – **Chair Award**, Department of Statistics and Actuarial Science, University of Waterloo
 
--   **2017** – *Doctoral Entrance Award*, Faculty of Mathematics, University of Waterloo
+-   **2017** – **Doctoral Entrance Award**, Faculty of Mathematics, University of Waterloo
 
--   **2016** – *Rich Summer Internships Award*, Department of Mathematics, CUNY *Awarded to top students for enhanced faculty-led research*
+-   **2016** – **Rich Summer Internships Award**, Department of Mathematics, CUNY *Awarded to top students for enhanced faculty-led research*
 
--   **2015, 2016** – *Dr. Barnett and Jean Hollander Rich Mathematics Scholarship*, CUNY *Awarded to talented math students preparing for math-related careers*
+-   **2015, 2016** – **Dr. Barnett and Jean Hollander Rich Mathematics Scholarship**, CUNY *Awarded to talented math students preparing for math-related careers*
 
 ------------------------------------------------------------------------
 
