@@ -32,7 +32,7 @@ git clone https://github.com/<username>/<username>.github.io.git
 
 The directory structure is as follows:
 
-``` 
+```         
 .
 ├── contents
 └── static
