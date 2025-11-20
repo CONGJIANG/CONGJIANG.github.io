@@ -30,6 +30,7 @@
 
 **Conference review service**:
 
+-   JSM BYAR and ASA Biometrics Section 2026 (Early Career Paper Award Competition),
 -   ENAR Spring Meeting 2025 (Poster Competition),
 -   New England Statistical Symposium 2025 (Poster Competition),
 -   American Causal Inference Conference 2024 (Poster Competition),
