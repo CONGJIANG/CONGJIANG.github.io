@@ -22,10 +22,12 @@
 
 #### In Preparation
 
--   **C. Jiang**, M.D. Hughes, and N. Hejazi. **Evaluating causal indirect effects when mediators are informatively left-censored by assay detection limits**. [[Draft]](#)
+-   **C. Jiang**, M.D. Hughes, and N. Hejazi. **Evaluating causal indirect effects when mediators are informatively left-censored by assay detection limits**. [[Slides]](https://www.stat.berkeley.edu/~nhejazi/present/2025_lids_medcens/#/title-slide)
 
--   **C. Jiang**, M.D. Hughes, and N. Hejazi. **Efficacy of endTB Regimens Versus 6BPaLM for People Living with HIV**. [[Draft]](#)
+-   **C. Jiang**, M.D. Hughes, and N. Hejazi. **Efficacy of endTB Regimens Versus 6BPaLM for People Living with HIV**. [[Sldies]](#)
 
 -   E.O. Brizuela, **C. Jiang**, M. Carabali, D. Talbot, M.E. Schnitzer. **Machine Learning in Vaccine Effectiveness Estimation under the Test-Negative Design: Bridging the Gap for Epidemiologists**. [[Draft]](#)
 
 -   H. Bian, **C. Jiang**, D. Talbot, M.E. Schnitzer. **Addressing Selection Bias and Time-Varying Confounders in Test-Negative Designs for Vaccine Effectiveness Studies**. [[Draft]](#)
+
+-   Yan Liu, Anita Koushik, **C. Jiang**, Miceline M\'esidor, Denis Talbot, and Mireille E. Schnitzer. **Causal inference via propensity scores for case--control studies without knowledge of sampling probabilities** [[Draft]](#)
