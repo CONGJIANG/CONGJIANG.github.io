@@ -47,7 +47,6 @@
 
 *As part of my mentoring and teaching activities, I maintain a curated list of accessible and advanced resources in causal inference, causal machine learning, and modern treatment effect methodology. These are materials I frequently recommend to students and collaborators entering the field.*
 
----
 
 ### 🌱 Foundations & Research Design
 
@@ -67,6 +66,12 @@
   A foundational reference for the potential outcomes framework, longitudinal causal inference, and time-varying treatments, especially influential in biostatistics and epidemiology.  
   https://www.hsph.harvard.edu/miguel-hernan/causal-inference-book/
 
+- **Causal Inference and Machine Learning: In Economics, Social, and Health Sciences** - Mutlu Yuksel and Yigit Aydede 
+  It is written for economists, health, and social scientists who want a practical path—from basic concepts and core causal ideas to state-of-the-art ML methods—with reproducible code and applied examples. https://www.causalmlbook.com/index.html/
+
+- **Everyday causal inference** - Robson Tigre 
+  This book is for the builders and the decision-makers. It is for anyone who needs to make high-stakes decisions based on data and wants to do it with confidence. https://www.everydaycausal.com/
+  
 ---
 
 ### 🤖 Causal Machine Learning & Heterogeneous Effects
@@ -84,4 +89,7 @@
 ### 🧠 Causal Discovery & Structural Learning
 
 - **Introductory resources on causal discovery and graphical models** (e.g., work by Martin Huber)  
-  For readers interested in learning about causal structure learning, directed acyclic graphs (DAGs), and the assumptions underlying causal discovery methods.
+  For readers interested in learning about causal structure learning, directed acyclic graphs (DAGs), and the assumptions underlying causal discovery methods. https://arxiv.org/abs/2407.08602/
+
+
+
