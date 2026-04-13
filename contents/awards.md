@@ -67,7 +67,7 @@
   https://www.hsph.harvard.edu/miguel-hernan/causal-inference-book/
 
 - **Causal Inference and Machine Learning: In Economics, Social, and Health Sciences** - Mutlu Yuksel and Yigit Aydede 
-  It is written for economists, health, and social scientists who want a practical path—from basic concepts and core causal ideas to state-of-the-art ML methods—with reproducible code and applied examples. https://www.causalmlbook.com/index.html/
+  It is written for economists, health, and social scientists who want a practical path—from basic concepts and core causal ideas to state-of-the-art ML methods—with reproducible code and applied examples. https://www.causalmlbook.com/
 
 - **Everyday causal inference** - Robson Tigre 
   This book is for the builders and the decision-makers. It is for anyone who needs to make high-stakes decisions based on data and wants to do it with confidence. https://www.everydaycausal.com/
@@ -91,5 +91,7 @@
 - **Introductory resources on causal discovery and graphical models** (e.g., work by Martin Huber)  
   For readers interested in learning about causal structure learning, directed acyclic graphs (DAGs), and the assumptions underlying causal discovery methods. https://arxiv.org/abs/2407.08602/
 
+
+<script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=tBEVUMdfybNUrSu2PRFfgVyuqpodka5byyxj6NZcEVw&cl=ffffff&w=a"></script>
 
 
