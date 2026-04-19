@@ -2,7 +2,7 @@
 
 Cong Jiang is a Postdoctoral Fellow in the Department of Biostatistics at the Harvard T.H. Chan School of Public Health. His research focuses on developing causal inference and machine learning methods to evaluate health interventions, with applications in infectious disease, HIV/TB research, smoking cessation, and personalized medicine. Dr. Jiang’s work spans estimating treatment effects, optimizing dynamic treatment regimes, and uncovering mechanisms through mediation analysis. He has contributed to methodological advances in vaccine effectiveness estimation under the test-negative design, causal mediation with censored biomarkers, and dynamic treatment regimes with interference.
 
-His research has been supported by a Canadian Institutes of Health Research (CIHR) Project Grant (2nd-ranked in committee review), the Centre de Recherches Mathématiques StatLab Fellowship, and the Ontario Institute for Cancer Research (Bio)statistics Training Initiative Fellowship.
+His research has been supported by a Canadian Institutes of Health Research (CIHR) Project Grant (2nd-ranked in committee review), the Centre de Recherches Mathématiques StatLab Fellowship, and [the Ontario Institute for Cancer Research (Bio)statistics Training Initiative Fellowship](\href{https://oicr.on.ca/wp-content/uploads/2018/11/BTI-Fellowship-Applicant-Guide-November-2018.pdf}).
 
 Fun fact: My first name “Cong” is pronounced like Ts'ong — it rhymes with tsʰong!
 
