@@ -24,7 +24,7 @@
 
 -   **C. Jiang**, M.D. Hughes, and N. Hejazi. **Evaluating causal indirect effects when mediators are informatively left-censored by assay detection limits**. [[Slides]](https://www.stat.berkeley.edu/~nhejazi/present/2025_lids_medcens/#/title-slide)
 
--   **C. Jiang**, M.D. Hughes, and N. Hejazi. **Efficacy of endTB Regimens Versus 6BPaLM for People Living with HIV**. [[Sldies]](#)
+-   **C. Jiang**, M.D. Hughes, and N. Hejazi. **Efficacy of endTB Regimens Versus 6BPaLM for People Living with HIV**. [[Sldies]](http://lab.nimahejazi.org/talk_endtb_indcmp-biostat-/)
 
 -   E.O. Brizuela, **C. Jiang**, M. Carabali, D. Talbot, M.E. Schnitzer. **Machine Learning in Vaccine Effectiveness Estimation under the Test-Negative Design: Bridging the Gap for Epidemiologists**. [[Draft]](#)
 
