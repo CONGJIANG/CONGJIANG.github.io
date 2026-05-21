@@ -16,15 +16,15 @@
 
 #### Under Review
 
--   **C. Jiang**, M.P. Wallace, and M.E. Thompson (2024). **Doubly Robust Dynamic Treatment Regimen Estimation for Binary Outcomes: two-step weighted generalized linear models**. Revise & Resubmit, *Canadian Journal of Statistics*. [[arXiv]](https://arxiv.org/abs/2203.08269)
+-   **C. Jiang**, Z. Bian, M.P. Wallace, and M.E. Thompson (2026+). **Doubly Robust Dynamic Treatment Regimen Estimation for Binary Outcomes: two-step weighted generalized linear models**. Revise & Resubmit, *Canadian Journal of Statistics*. [[arXiv]](https://arxiv.org/abs/2203.08269)
 
 -   **C. Jiang**, F. Fang, D. Talbot, M.E. Schnitzer. **Estimating Direct and Spillover Vaccine Effectiveness with Partial Interference under Test-Negative Design Sampling**. [[arXiv]](https://www.medrxiv.org/content/10.1101/2025.02.24.25322826v1)
 
+-   **C. Jiang**, M.D. Hughes, and N. Hejazi. **Evaluating causal indirect effects when mediators are left-censored by assay limit of quantification**. [[Paper]] (https://arxiv.org/abs/2605.20615) [[Slides]](https://www.stat.berkeley.edu/~nhejazi/present/2025_lids_medcens/#/title-slide)
+
 #### In Preparation
 
--   **C. Jiang**, M.D. Hughes, and N. Hejazi. **Evaluating causal indirect effects when mediators are informatively left-censored by assay detection limits**. [[Slides]](https://www.stat.berkeley.edu/~nhejazi/present/2025_lids_medcens/#/title-slide)
-
--   **C. Jiang**, M.D. Hughes, and N. Hejazi. **Efficacy of endTB Regimens Versus 6BPaLM for People Living with HIV**. [[Sldies]](http://lab.nimahejazi.org/talk_endtb_indcmp-biostat-/)
+-   **C. Jiang**, M.D. Hughes, and N. Hejazi. **Efficacy of endTB Regimens Versus 6BPaLM for People Living with HIV**. [[Sldies]]()
 
 -   E.O. Brizuela, **C. Jiang**, M. Carabali, D. Talbot, M.E. Schnitzer. **Machine Learning in Vaccine Effectiveness Estimation under the Test-Negative Design: Bridging the Gap for Epidemiologists**. [[Draft]](#)
 
