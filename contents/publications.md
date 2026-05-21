@@ -20,7 +20,7 @@
 
 -   **C. Jiang**, F. Fang, D. Talbot, M.E. Schnitzer. **Estimating Direct and Spillover Vaccine Effectiveness with Partial Interference under Test-Negative Design Sampling**. [[arXiv]](https://www.medrxiv.org/content/10.1101/2025.02.24.25322826v1)
 
--   **C. Jiang**, M.D. Hughes, and N. Hejazi. **Evaluating causal indirect effects when mediators are left-censored by assay limit of quantification**. [[Paper]] (https://arxiv.org/abs/2605.20615) [[Slides]](https://www.stat.berkeley.edu/~nhejazi/present/2025_lids_medcens/#/title-slide)
+-   **C. Jiang**, M.D. Hughes, and N. Hejazi. **Evaluating causal indirect effects when mediators are left-censored by assay limit of quantification**. [[arXiv]](https://arxiv.org/abs/2605.20615) [[Slides]](https://www.stat.berkeley.edu/~nhejazi/present/2025_lids_medcens/#/title-slide)
 
 #### In Preparation
 
