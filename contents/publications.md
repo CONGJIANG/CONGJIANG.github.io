@@ -22,6 +22,8 @@
 
 -   **C. Jiang**, M.D. Hughes, and N. Hejazi. **Evaluating causal indirect effects when mediators are left-censored by assay limit of quantification**. [[arXiv]](https://arxiv.org/abs/2605.20615) [[Slides]](https://www.stat.berkeley.edu/~nhejazi/present/2025_lids_medcens/#/title-slide)
 
+-   S. Jaganathan, J. Rana, S.N. Tasneem, Y. Ma, R. Islam, A. Salam, J.S. Kaufman, T. Benmarhnia **C. Jiang**. **Mortality burden of multiple air pollutants in Bangladesh: a nationwide panel study using a causal modeling approach**
+
 #### In Preparation
 
 -   **C. Jiang**, M.D. Hughes, and N. Hejazi. **Efficacy of endTB Regimens Versus 6BPaLM for People Living with HIV**. [[Sldies]]()
