@@ -12,7 +12,7 @@
 
 -   M. Mésidor, Y. Liu, D. Talbot, D. Skowronski, G.D. Serres, J. Merckx, A. Koushik, M. Tadrous, S. Carazo, **C. Jiang**, M.E. Schnitzer\* (2023). **Test negative design for vaccine effectiveness estimation in the context of the COVID-19 pandemic: a systematic methodology review**. *Vaccine, 42(5)*. [[Paper]](https://www.sciencedirect.com/science/article/pii/S0264410X23014469)
 
--   E.S. Munroe, A. Spicer, ..., **C. Jiang**, ..., M. Semler, and E.C. Goligher\* (2024). **Evidence-Based Personalised Medicine in Critical Care: A Framework for Quantifying and Applying Individualised Treatment Effects in Critically Ill Patients**. *Lancet Respiratory Medicine, In press*. [[Paper]](https://doi.org/10.1016/S2213-2600%2825%2900054-2)
+-   E.S. Munroe, A. Spicer, ..., **C. Jiang**, ..., M. Semler, and E.C. Goligher\* (2025). **Evidence-Based Personalised Medicine in Critical Care: A Framework for Quantifying and Applying Individualised Treatment Effects in Critically Ill Patients**. *Lancet Respiratory Medicine, 13(6), 556-568*. [[Paper]](https://doi.org/10.1016/S2213-2600%2825%2900054-2)
 
 #### Under Review
 
@@ -22,7 +22,7 @@
 
 -   **C. Jiang**, M.D. Hughes, and N. Hejazi. **Evaluating causal indirect effects when mediators are left-censored by assay limit of quantification**. [[arXiv]](https://arxiv.org/abs/2605.20615) [[Slides]](https://www.stat.berkeley.edu/~nhejazi/present/2025_lids_medcens/#/title-slide)
 
--   S. Jaganathan, J. Rana, S.N. Tasneem, Y. Ma, R. Islam, A. Salam, J.S. Kaufman, T. Benmarhnia **C. Jiang**. **Mortality burden of multiple air pollutants in Bangladesh: a nationwide panel study using a causal modeling approach**
+-   S. Jaganathan, J. Rana, S.N. Tasneem, Y. Ma, R. Islam, A. Salam, J.S. Kaufman, T. Benmarhnia, **C. Jiang**. **Mortality burden of multiple air pollutants in Bangladesh: a nationwide panel study using a causal modeling approach**
 
 #### In Preparation
 
