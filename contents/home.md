@@ -4,7 +4,7 @@ Cong Jiang is a Postdoctoral Fellow in the Department of Biostatistics at the Ha
 
 His research has been supported by a Canadian Institutes of Health Research (CIHR) Project Grant (2nd-ranked in committee review), the Centre de Recherches Mathématiques StatLab Fellowship, and [the Ontario Institute for Cancer Research (Bio)statistics Training Initiative Fellowship](https://oicr.on.ca/wp-content/uploads/2018/11/BTI-Fellowship-Applicant-Guide-November-2018.pdf).
 
-Fun fact: My first name “Cong” is pronounced like Ts'ong — it rhymes with tsʰong!
+Fun fact: His first name “Cong” is pronounced like Ts'ong — it rhymes with tsʰong!
 
 Email: cjiang[at]hsph.harvard.edu
 
