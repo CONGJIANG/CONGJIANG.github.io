@@ -1,34 +1,42 @@
-## Teaching Assistant, Statistics and Actuarial Science, University of Waterloo
+I enjoy teaching statistics, machine learning, and biostatistics through applied examples, computational practice, and student-centered discussion. My teaching experience spans probability, mathematical statistics, computational statistics, biostatistics, and statistical learning.
 
-### STAT 341: Computational Statistics and Data Analysis  
-*Winter 2021*  
-Fundamental computational statistics course for mathematics students, emphasizing statistical computing, simulation, and data analysis methods.
+#### Teaching Assistant, University of Waterloo  
+*Department of Statistics and Actuarial Science*
 
-### STAT 444/844/CM 764: Statistical Learning – Advanced Regression  
-*Spring 2021*  
-Graduate-level machine learning course focused on modern regression methods and predictive modeling.
+- **STAT 444/844/CM 764: Statistical Learning – Advanced Regression**  
+  *Spring 2021*  
+  Supported students in learning modern regression methods, predictive modeling, and applied machine learning.
 
-### STAT 441/841/CM 763: Statistical Learning – Classification  
-*Winter 2019*  
-Machine learning course for senior undergraduate and graduate students covering modern classification techniques and supervised learning methods. Assisted with grading assignments, quizzes, and exams; mentored students participating in Kaggle competitions; and evaluated final group projects involving real-world machine learning applications.
+- **STAT 441/841/CM 763: Statistical Learning – Classification**  
+  *Winter 2019*  
+  Mentored students in classification methods, supervised learning, Kaggle-style competitions, and final group projects.
 
-### STAT 337: Introduction to Biostatistics  
-*Fall 2020*  
-Introductory biostatistics course covering foundational statistical methods for health and biological sciences.
+- **STAT 341: Computational Statistics and Data Analysis**  
+  *Winter 2021*  
+  Helped students develop statistical computing, simulation, and data analysis skills.
 
-### STAT 241: Statistics (Advanced Level) and STAT 231: Statistics  
-*2018*  
-Undergraduate statistics courses covering probability, inference, and applied statistical methods.
+- **STAT 337: Introduction to Biostatistics**  
+  *Fall 2020*  
+  Supported introductory biostatistics instruction for students interested in health and biological sciences.
 
-### STAT 240: Probability (Advanced Level) and STAT 220: Probability (Non-Specialist Level)  
-*2017*  
-Courses introducing probability theory and stochastic reasoning for mathematics and non-specialist students.
+- **STAT 241: Statistics (Advanced Level)** and **STAT 231: Statistics**  
+  *2018*
+
+- **STAT 240: Probability (Advanced Level)** and **STAT 220: Probability (Non-Specialist Level)**  
+  *2017*
+
+#### Teaching Assistant, City University of New York  
+*Department of Mathematics*
+
+- **MATH 37600: Mathematical Statistics** and **MATH 37500: Elements of Probability Theory**  
+  Advanced mathematics courses for mathematics majors. Conducted tutorials, graded assignments, and assisted with examinations.
 
 ---
 
-## Teaching Assistant, Mathematics Department, City University of New York (CUNY)
+### Teaching Interests
 
-### Mathematical Statistics (MATH 37600)  
-### Elements of Probability Theory (MATH 37500)
-
-Advanced mathematics courses for mathematics majors covering theoretical probability and mathematical statistics. Conducted tutorial sessions, graded assignments, and assisted with examinations.
+- Causal inference and biostatistics  
+- Statistical learning and machine learning  
+- Statistical computing with R  
+- Probability and mathematical statistics  
+- Applied data analysis for public health and medicine
