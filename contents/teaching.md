@@ -3,34 +3,16 @@ I enjoy teaching statistics, machine learning, and biostatistics through applied
 #### Teaching Assistant, University of Waterloo  
 *Department of Statistics and Actuarial Science*
 
-- **STAT 444/844/CM 764: Statistical Learning – Advanced Regression**  
-  *Spring 2021*  
-  Supported students in learning modern regression methods, predictive modeling, and applied machine learning.
+- **STAT 444/844/CM 764: Statistical Learning – Advanced Regression**  *Spring 2021*  
+- **STAT 441/841/CM 763: Statistical Learning – Classification**  *Winter 2019* 
+- **STAT 341: Computational Statistics and Data Analysis**  *Winter 2021*  
+- **STAT 337: Introduction to Biostatistics**  *Fall 2020*  
+- **STAT 241: Statistics (Advanced Level)** and **STAT 231: Statistics**  *2018*
+- **STAT 240: Probability (Advanced Level)** and **STAT 220: Probability (Non-Specialist Level)**  *2017*
 
-- **STAT 441/841/CM 763: Statistical Learning – Classification**  
-  *Winter 2019*  
-  Mentored students in classification methods, supervised learning, Kaggle-style competitions, and final group projects.
-
-- **STAT 341: Computational Statistics and Data Analysis**  
-  *Winter 2021*  
-  Helped students develop statistical computing, simulation, and data analysis skills.
-
-- **STAT 337: Introduction to Biostatistics**  
-  *Fall 2020*  
-  Supported introductory biostatistics instruction for students interested in health and biological sciences.
-
-- **STAT 241: Statistics (Advanced Level)** and **STAT 231: Statistics**  
-  *2018*
-
-- **STAT 240: Probability (Advanced Level)** and **STAT 220: Probability (Non-Specialist Level)**  
-  *2017*
-
-#### Teaching Assistant, City University of New York  
-*Department of Mathematics*
+#### Teaching Assistant, City University of New York  *Department of Mathematics*
 
 - **MATH 37600: Mathematical Statistics** and **MATH 37500: Elements of Probability Theory**  
-  Advanced mathematics courses for mathematics majors. Conducted tutorials, graded assignments, and assisted with examinations.
-
 ---
 
 ### Teaching Interests
