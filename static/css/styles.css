@@ -10914,11 +10914,20 @@ footer a:hover, footer a:active, footer a:focus {
 
 body {
   font-family: "IBM Plex Mono", monospace !important;
-  font-size: 0.7rem;
+  font-size: 0.5rem;
   line-height: 1.7;
   font-weight: 350;
   color: #4b4b4b;
   background: #fff;
+}
+
+/* top menu */
+
+.navbar-nav .nav-link {
+  font-family: "IBM Plex Mono", monospace !important;
+  font-size: 0.7rem !important;
+  font-weight: 400;
+  letter-spacing: 0.08em;
 }
 
 .container,
