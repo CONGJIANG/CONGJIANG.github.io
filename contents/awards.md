@@ -31,12 +31,17 @@
 **Conference review service**:
 
 -   JSM BYAR and ASA Biometrics Section 2026 (Early Career Paper Award Competition),
+
 -   ENAR Spring Meeting 2025 (Poster Competition),
+
 -   New England Statistical Symposium 2025 (Poster Competition),
+
 -   American Causal Inference Conference 2024 (Poster Competition),
+
 -   SSC Annual Meeting 2024 (Case Studies in Data Analysis Competition)
 
 **Organized invited sessions**:
 
 -   *Advancing Precision Medicine through Innovative StatisticalMethods*, May 2024, SSC Annual Meeting, St. John’s, Canada
+
 -   *Advances and Applications in Optimal Dynamic Treatment Regimes*, May 2023, SSC Annual Meeting, Ottawa, Canada
