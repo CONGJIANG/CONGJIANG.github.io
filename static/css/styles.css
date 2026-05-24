@@ -10914,7 +10914,7 @@ footer a:hover, footer a:active, footer a:focus {
 
 body {
   font-family: "IBM Plex Mono", monospace !important;
-  font-size: 0.3rem;
+  font-size: 0.7rem;
   line-height: 1.7;
   font-weight: 350;
   color: #4b4b4b;
@@ -10947,6 +10947,7 @@ h2, h3, h4 {
 }
 
 p {
+  font-size: 0.5rem;
   max-width: 1500px;
 }
 
