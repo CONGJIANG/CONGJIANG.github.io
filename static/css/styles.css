@@ -10911,6 +10911,7 @@ footer a:hover, footer a:active, footer a:focus {
 
 
 /* Minimal academic style */
+
 body {
   font-family: "IBM Plex Mono", monospace !important;
   font-size: 1rem;
@@ -10922,13 +10923,18 @@ body {
 
 .container,
 .container-fluid {
-  max-width: 1700px !important;
-  width: 92%;
+  max-width: 1800px !important;
+  width: 94%;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: "IBM Plex Mono", monospace !important;
+  font-weight: 400 !important;
+  color: #333;
 }
 
 h1 {
   font-size: 4.5rem !important;
-  font-weight: 400 !important;
   letter-spacing: -0.05em;
 }
 
@@ -10947,11 +10953,6 @@ a:hover {
   color: #000;
 }
 
-.container {
-  max-width: 1800px !important;
-  width: 94%;
-}
-
 section {
   padding-top: 5rem;
   padding-bottom: 5rem;
@@ -10960,5 +10961,3 @@ section {
 ul, ol {
   line-height: 1.9;
 }
-
-
