@@ -10911,37 +10911,29 @@ footer a:hover, footer a:active, footer a:focus {
 
 
 /* Minimal academic style */
-
 body {
-  font-family: "IBM Plex Mono", monospace;
-  font-size: 1.25rem;
-  line-height: 1.9;
-  font-weight: 400;
-  color: #444;
-  background-color: #fff;
+  font-family: "IBM Plex Mono", monospace !important;
+  font-size: 1rem;
+  line-height: 1.7;
+  font-weight: 350;
+  color: #4b4b4b;
+  background: #fff;
 }
 
-h1, h2, h3, h4, h5, h6,
-.display-1, .display-2, .display-3, .display-4 {
-  font-family: "IBM Plex Mono", monospace;
-  font-weight: 400;
-  color: #333;
-  letter-spacing: -0.04em;
+.container,
+.container-fluid {
+  max-width: 1700px !important;
+  width: 92%;
 }
 
 h1 {
-  font-size: 5.2rem;
-  margin-bottom: 2.5rem;
-}
-
-h2 {
-  font-size: 2.2rem;
-  margin-top: 3rem;
+  font-size: 4.5rem !important;
+  font-weight: 400 !important;
+  letter-spacing: -0.05em;
 }
 
 p {
-  max-width: 1050px;
-  margin-bottom: 2rem;
+  max-width: 1500px;
 }
 
 a {
