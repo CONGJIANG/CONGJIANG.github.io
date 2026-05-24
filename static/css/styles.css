@@ -10948,7 +10948,7 @@ h1 {
 }
 
 h2, h3, h4 {
-  font-size: 1rem;
+  font-size: 0.9rem;
   font-weight: 400;
   margin-top: 2rem;
   margin-bottom: 1rem;
@@ -10972,8 +10972,8 @@ a:hover {
 }
 
 section {
-  padding-top: 5rem;
-  padding-bottom: 5rem;
+  padding-top: 3rem;
+  padding-bottom: 3rem;
 }
 
 ul, ol {
