@@ -16,7 +16,9 @@ I enjoy teaching statistics, machine learning, and biostatistics through applied
 
 #### Teaching Assistant, City University of New York,  *Department of Mathematics*
 
-- **MATH 37600: Mathematical Statistics** and **MATH 37500: Elements of Probability Theory** 
+- **MATH 37600: Mathematical Statistics**
+
+- **MATH 37500: Elements of Probability Theory** 
  
 ---
 
