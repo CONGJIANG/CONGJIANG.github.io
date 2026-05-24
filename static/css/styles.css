@@ -10956,7 +10956,8 @@ a:hover {
 }
 
 .container {
-  max-width: 1180px;
+  max-width: 1600px !important;
+  width: 92%;
 }
 
 section {
