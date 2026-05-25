@@ -10980,15 +10980,16 @@ ul, ol {
   line-height: 1.9;
 }
 
+
 .top-section {
   height: 600px !important;
   overflow-y: auto !important;
   overflow-x: hidden !important;
-  position: relative;
+  background: #fff !important;
 }
 
 .top-section-img {
-  width: 100%;
+  width: 100vw;
   height: auto;
   display: block;
 }
