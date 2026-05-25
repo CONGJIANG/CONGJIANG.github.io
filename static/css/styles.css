@@ -10980,16 +10980,33 @@ ul, ol {
   line-height: 1.9;
 }
 
-
 .top-section {
   height: 600px !important;
   overflow-y: auto !important;
   overflow-x: hidden !important;
   background: #fff !important;
+  padding: 0 !important;
+  margin: 0 !important;
+  position: relative !important;
+}
+
+.top-section::before,
+.top-section::after {
+  display: none !important;
+  content: none !important;
+  background: none !important;
+}
+
+.top-section-content {
+  display: none !important;
 }
 
 .top-section-img {
-  width: 100vw;
-  height: auto;
-  display: block;
+  width: 100vw !important;
+  height: auto !important;
+  display: block !important;
+  margin: 0 !important;
+  padding: 0 !important;
+  opacity: 1 !important;
+  filter: none !important;
 }
