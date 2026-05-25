@@ -10979,3 +10979,11 @@ section {
 ul, ol {
   line-height: 1.9;
 }
+
+.top-section {
+  height: 600px !important;
+  overflow-y: scroll;
+  background-size: 100% auto !important;
+  background-repeat: no-repeat !important;
+  background-position: top center !important;
+}
