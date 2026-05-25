@@ -10982,8 +10982,13 @@ ul, ol {
 
 .top-section {
   height: 600px !important;
-  overflow-y: scroll;
-  background-size: 100% auto !important;
-  background-repeat: no-repeat !important;
-  background-position: top center !important;
+  overflow-y: auto !important;
+  overflow-x: hidden !important;
+  position: relative;
+}
+
+.top-section-img {
+  width: 100%;
+  height: auto;
+  display: block;
 }
