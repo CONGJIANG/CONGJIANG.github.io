@@ -1,4 +1,4 @@
-I enjoy teaching statistics, machine learning, and biostatistics through applied examples, computational practice, and student-centered discussion. My teaching experience spans probability, mathematical statistics, computational statistics, biostatistics, and statistical learning.
+*I enjoy teaching statistics, machine learning, and biostatistics through applied examples, computational practice, and student-centered discussion. My teaching experience spans probability, mathematical statistics, computational statistics, biostatistics, and statistical learning.*
 
 #### Teaching Assistant, University of Waterloo,  *Department of Statistics and Actuarial Science*
 
