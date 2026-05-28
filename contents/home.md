@@ -24,13 +24,25 @@ Email: cjiang[at]hsph.harvard.edu
 
 -   Causal mediation analysis; Transportability/Generalizability, Meta-analysis; HIV and TB research
 
+
 #### News
 
-`May 2026`  
-Our work on causal indirect effects with censored biomarkers was posted on [[arXiv]](https://arxiv.org/abs/2605.20615).
+<div class="news-recent">
 
-`Apr 2026`  
-Presented ongoing work on transportability and data fusion for HIV/TB comparative effectiveness research.
+`May 2026`  Our work on causal indirect effects with censored biomarkers was posted on [[arXiv]](https://arxiv.org/abs/2605.20615).
 
-`Feb 2026` 
-Invited reviewer for the JSM Biometrics Section and BYAR 2026 Early Career Paper Award Competition.
+`Apr 2026`  Presented ongoing work on transportability and data fusion for HIV/TB comparative effectiveness research at Dr. Haneuse’s EHR/Missing Data Working Group.
+
+`Feb 2026`  Invited seminar speaker, Department of Epidemiology & Biostatistics, Texas A&M University School of Public Health.
+
+</div>
+
+<div class="news-old">
+
+`Dec 2025`  Invited reviewer for the ASA Biometrics Section 2026 Early Career Paper Award Competition.
+
+</div>
+
+
+
+
