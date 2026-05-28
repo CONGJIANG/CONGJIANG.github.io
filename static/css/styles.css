@@ -11041,14 +11041,3 @@ footer a:hover {
   font-weight: 500 !important;
   color: #222 !important;
 }
-
-
-
-/* Chinese name */
-.chinese-name {
-  font-family: "Noto Serif SC", serif;
-  font-size: 0.88em;
-  font-weight: 400;
-  letter-spacing: 0;
-  margin-left: 0.15em;
-}
