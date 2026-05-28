@@ -29,7 +29,7 @@ Email: cjiang[at]hsph.harvard.edu
 
 <div class="news-recent">
 
-`May 2026`  Our work on causal indirect effects with censored biomarkers was posted on [[arXiv]](https://arxiv.org/abs/2605.20615).
+`May 2026`  Our work on causal indirect effects under assay quantification limits was posted on [[arXiv]](https://arxiv.org/abs/2605.20615).
 
 `Apr 2026`  Presented ongoing work on transportability and data fusion for HIV/TB comparative effectiveness research at Dr. Haneuse’s EHR/Missing Data Working Group.
 
