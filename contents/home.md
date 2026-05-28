@@ -4,13 +4,13 @@ Cong Jiang is a Postdoctoral Fellow in the Department of Biostatistics at the Ha
 
 His research has been supported by a Canadian Institutes of Health Research (CIHR) Project Grant (2nd-ranked in committee review), the Centre de Recherches Mathématiques StatLab Fellowship, and [the Ontario Institute for Cancer Research (Bio)statistics Training Initiative Fellowship](https://oicr.on.ca/wp-content/uploads/2018/11/BTI-Fellowship-Applicant-Guide-November-2018.pdf).
 
-Fun fact: His first name “Cong” is pronounced like Ts'ong — it rhymes with tsʰong!
+Fun fact: His first name “Cong” (聪) is pronounced like Ts'ong — it rhymes with tsʰong!
 
 Email: cjiang[at]hsph.harvard.edu
 
 #### Training
 
-**Postdoctoral Fellow**, *Biostatistics*, Havard University, MA, U.S.A., 2024–2026\
+**Postdoctoral Fellow**, *Biostatistics*, Harvard University, MA, U.S.A., 2024–2026\
 **Postdoctoral Fellow**, *Biostatistics*, Université de Montréal, QC, Canada, 2022–2024\
 **Ph.D.**, *Statistics*, University of Waterloo, ON, Canada, 2017–2022
 
@@ -23,3 +23,14 @@ Email: cjiang[at]hsph.harvard.edu
 -   Dynamic treatment regimes/Adaptive treatment strategy; Interference; Personalized medicine;
 
 -   Causal mediation analysis; Transportability/Generalizability, Meta-analysis; HIV and TB research
+
+#### News
+
+`May 2026`  
+Our work on causal indirect effects with censored biomarkers was posted on [[arXiv]](https://arxiv.org/abs/2605.20615).
+
+`Apr 2026`  
+Presented ongoing work on transportability and data fusion for HIV/TB comparative effectiveness research.
+
+`Feb 2026` 
+Invited reviewer for the JSM Biometrics Section and BYAR 2026 Early Career Paper Award Competition.
