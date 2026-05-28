@@ -11012,21 +11012,30 @@ ul, ol {
 }
 
 footer {
-  background: #1f1f1f !important;
-  padding-top: 3rem !important;
-  padding-bottom: 3rem !important;
+  background: #8C1515 !important;   /* Stanford red */
+  padding-top: 3.5rem !important;
+  padding-bottom: 3.5rem !important;
+  text-align: center;
 }
 
 footer .small,
 footer a,
 footer span,
 footer div {
-  color: rgba(255,255,255,0.72) !important;
+  color: rgba(255,255,255,0.82) !important;
   font-family: "IBM Plex Mono", monospace;
-  font-size: 0.9rem;
+  font-size: 0.95rem;
+  font-weight: 350;
+  letter-spacing: 0.01em;
   text-decoration: none;
 }
 
 footer a:hover {
   color: white !important;
+}
+
+#mainNav .navbar-brand,
+#mainNav .nav-link {
+  font-weight: 500 !important;
+  color: #222 !important;
 }
