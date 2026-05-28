@@ -41,6 +41,8 @@ Email: cjiang[at]hsph.harvard.edu
 
 `Dec 2025`  Invited reviewer for the ASA Biometrics Section 2026 Early Career Paper Award Competition.
 
+`May 2025`  Invited seminar speaker, Department of Mathematics and Statistics, University of Massachusetts Amherst. Presented “A Double Machine Learning Approach for the Evaluation of Vaccine Effectiveness under the Test-Negative Design.”
+
 </div>
 
 
