@@ -11010,3 +11010,23 @@ ul, ol {
   opacity: 1 !important;
   filter: none !important;
 }
+
+footer {
+  background: #1f1f1f !important;
+  padding-top: 3rem !important;
+  padding-bottom: 3rem !important;
+}
+
+footer .small,
+footer a,
+footer span,
+footer div {
+  color: rgba(255,255,255,0.72) !important;
+  font-family: "IBM Plex Mono", monospace;
+  font-size: 0.9rem;
+  text-decoration: none;
+}
+
+footer a:hover {
+  color: white !important;
+}
