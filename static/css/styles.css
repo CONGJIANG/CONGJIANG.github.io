@@ -11041,3 +11041,13 @@ footer a:hover {
   font-weight: 500 !important;
   color: #222 !important;
 }
+
+/* Chinese name */
+.chinese-name {
+  font-family: "Ma Shan Zheng", cursive;
+  font-size: 1.2em;
+  font-weight: 400;
+  margin-left: 0.15em;
+}
+
+
