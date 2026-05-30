@@ -2,13 +2,13 @@
 
 #### Teaching Assistant, University of Waterloo,  *Department of Statistics and Actuarial Science*
 
-- **STAT 444/844/CM 764: Statistical Learning – Advanced Regression**  *Spring 2021*  
+- [**STAT 444/844/CM 764: Statistical Learning – Advanced Regression**](https://uwaterloo.ca/gsac-archive/archive-spring-2022/node/6251.html)  *Spring 2021*  
 
-- **STAT 441/841/CM 763: Statistical Learning – Classification**  *Winter 2019* 
+- [**STAT 441/841/CM 763: Statistical Learning – Classification**](https://uwaterloo.ca/gsac-archive/archive-winter-2019/node/6249.html)  *Winter 2019* 
 
-- **STAT 341: Computational Statistics and Data Analysis**  *Winter 2021*  
+- [**STAT 341: Computational Statistics and Data Analysis**](https://sas.uwaterloo.ca/~rwoldfor/courses/ComputationalStatDraft/Outline.html)  *Winter 2021*  
 
-- **STAT 337: Introduction to Biostatistics**  *Fall 2020*  
+- [**STAT 337: Introduction to Biostatistics**](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/courses/SkmVFYEQYh)  *Fall 2020*  
 
 - **STAT 241: Statistics (Advanced Level)** and **STAT 231: Statistics**  *2018*
 
