@@ -33,3 +33,23 @@
 - Probability and mathematical statistics 
  
 - Applied data analysis for public health and medicine
+
+---
+
+# Student Mentoring
+
+### Current Students
+
+#### Martha Boahene
+PhD Student in Biostatistics, Harvard University  
+Co-supervised with Dr. Nima Hejazi
+
+**Research Project:**  
+Transportability and data fusion methods for comparative effectiveness analyses in HIV and tuberculosis studies.
+
+#### Danny Lee
+MS Student in Biostatistics, Harvard University  
+Co-supervised with Dr. Nima Hejazi
+
+**Research Project:**  
+Subgroup-specific inference under source-specific treatment availability and subgroup membership.
