@@ -26,7 +26,7 @@
 
 #### 📑 Academic Service
 
-**Peer-review service**: *Statistics in Medicine (×7), Journal of the American Statistical Association (×2), Stat (1), Epidemiology (1), Electronic Journal of Statistics (×2), International Journal of Biostatistics (1), Journal of Causal Inference (×4), Vaccine (×2), Clinical Trials (×2), The Journal of Infectious Diseases (×2), BMC Medical Research Methodology (×2), BMC Medical Informatics and Decision Making (×2), ACM TKDD (1), Frontiers in Behavioral Economics (×2), Scientific Reports (×2)*
+**Peer-review service**: *Statistics in Medicine (10+), Journal of the American Statistical Association (×2), Stat (1), Epidemiology (1), Electronic Journal of Statistics (×2), International Journal of Biostatistics (×3), Journal of Causal Inference (×4), Vaccine (×2), Clinical Trials (×2), The Journal of Infectious Diseases (×2), BMC Medical Research Methodology (×2), BMC Medical Informatics and Decision Making (×2), ACM TKDD (1), Frontiers in Behavioral Economics (×2), Scientific Reports (×2)*
 
 **Conference review service**:
 
