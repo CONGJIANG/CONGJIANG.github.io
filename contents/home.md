@@ -39,7 +39,7 @@ Email: Cong.Jiang[at]downstate.edu
 
 `Mar 2026`  Welcomed my baby girl and went on paternity leave.
 
-`Feb 2026`  Invited seminar speaker, Department of Epidemiology & Biostatistics, Texas A&M University, School of Public Health.
+`Feb 2026`  Invited seminar speaker, Department of Epidemiology & Biostatistics, Texas A&M University.
 
 </div>
 
