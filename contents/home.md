@@ -37,7 +37,7 @@ Email: Cong.Jiang[at]downstate.edu
 
 `Apr 2026`  Presented ongoing work on transportability and data fusion for HIV/TB comparative effectiveness research at Dr. Sebastien Haneuse’s EHR/Missing Data Working Group.
 
-`Mar 2026`  Welcomed our baby girl and went on paternity leave.
+`Mar 2026`  Welcomed my baby girl and went on paternity leave.
 
 `Feb 2026`  Invited seminar speaker, Department of Epidemiology & Biostatistics, Texas A&M University, School of Public Health.
 
