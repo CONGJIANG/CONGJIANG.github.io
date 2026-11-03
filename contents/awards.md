@@ -30,6 +30,10 @@
 
 **Conference review service**:
 
+-   American Causal Inference Conference (ACIC) 2027 (Abstract Review),
+
+-   ASA Conference on Statistical Learning and Data Science (SLDS) 2026 (Poster Competition),
+
 -   JSM BYAR and ASA Biometrics Section 2026 (Early Career Paper Award Competition),
 
 -   ENAR Spring Meeting 2025 (Poster Competition),
